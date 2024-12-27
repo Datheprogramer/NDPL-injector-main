@@ -1,2 +1,13 @@
 # NDPL-injector
 Chạo ae tôi là NDPL, aka Datheprogramer, đây là một dll injector, có thể sử dụng để điều chỉnh, hack game,...
+ae đừng cop, làm bằng tkinter, ctypes, win32 sau khi tôi nhận ra có ctypes...
+có giấy phép của MIT ( để được xác thực dễ dàng hơn )
+SUBSCRIBE : https://www.youtube.com/@NDPL_real
+NẾU TÔI ĐẠT 20 SUBS, tôi sẽ share source code
+
+ENGLISH :
+Hao GUYS I'm NDPL, aka Datheprogramer, this is a dll injector, which can be used to tweak, hack games,...
+ae don't cop, made with tkinter, ctypes, win32 after i realized there are ctypes...
+have an MIT license (for easier validation)
+SUBSCRIBE : https://www.youtube.com/@NDPL_real
+IF I REACH 20 SUBS, I WILL SHARE THE SOURCE CODE
