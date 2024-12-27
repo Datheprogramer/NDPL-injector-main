@@ -1,1 +1,2 @@
-# NDPL-injector-main
+# NDPL-injector
+Chạo ae tôi là NDPL, aka Datheprogramer, đây là một dll injector, có thể sử dụng để điều chỉnh, hack game,...
